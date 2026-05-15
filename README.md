@@ -6,17 +6,17 @@ From baseline filter:
 - Swap Class "Shield" to "Buckler" or "Foci" or "Sceptres" , if need a different offhand
 
 **Gear Bases**
-Adjust these values for Armour, Evasion, ES Bases, (0 means the gear should have 0 of that value)
+- Adjust these values for Armour, Evasion, ES Bases, (0 means the gear should have 0 of that value)
 
 *Sample for ES/EVA Bases*
-	BaseEnergyShield > 0
-	BaseEvasion > 0
-	BaseArmour 0
+- 	BaseEnergyShield > 0
+-	BaseEvasion > 0
+-	BaseArmour 0
 
 *Sample for Armour Bases*
-	BaseEnergyShield 0
-	BaseEvasion 0
-	BaseArmour > 0
+-	BaseEnergyShield 0
+-	BaseEvasion 0
+-	BaseArmour > 0
 
 **Weapon Type**
 *1H*

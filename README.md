@@ -25,5 +25,5 @@ From baseline filter:
 - Class == "Bows" "Crossbows" "Quarterstaves" "Staves" "Talismans" "Two Hand Maces"	
 
 Default:
-Show #Change to weapon type you need
-	Class == "Spears"
+- Show #Change to weapon type you need
+-	Class == "Spears"
